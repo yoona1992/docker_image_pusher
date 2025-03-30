@@ -1,2 +1,3 @@
 infiniflow/infinity:v0.6.0-dev3
 yandex/clickhouse-server:latest
+n8nio/n8n:latest
