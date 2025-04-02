@@ -2,3 +2,6 @@ infiniflow/infinity:v0.6.0-dev3
 yandex/clickhouse-server:latest
 n8nio/n8n:latest
 nacos/nacos-server:latest
+docker.io/songxwn/netbox-cn-docker:4.0.3-2.9.9
+docker.io/postgres:16-alpine
+docker.io/redis:7-alpine
