@@ -8,3 +8,4 @@ docker.io/redis:7-alpine
 ghcr.io/mermaid-js/mermaid-live-editor:latest
 docker.n8n.io/n8nio/n8n:latest
 xprobe/xinference:latest
+openjdk:11-jdk-slim
