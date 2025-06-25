@@ -1,7 +1,7 @@
 zlmediakit/zlmediakit:master
 docker.elastic.co/elasticsearch/elasticsearch:7.17.22
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:3.2.2
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:3.2.2
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:3.2.2
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:3.2.2
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:3.2.2
+apache/dolphinscheduler-tools:3.2.2
+apache/dolphinscheduler-master:3.2.2
+apache/dolphinscheduler-worker:3.2.2
+apache/dolphinscheduler-api:3.2.2
+apache/dolphinscheduler-alert-server:3.2.2
