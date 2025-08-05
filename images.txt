@@ -5,3 +5,8 @@ apache/dolphinscheduler-master:3.2.2
 apache/dolphinscheduler-worker:3.2.2
 apache/dolphinscheduler-api:3.2.2
 apache/dolphinscheduler-alert-server:3.2.2
+clearml/server:latest
+elasticsearch:8.17.0
+mongo:6.0.19
+redis:7.4.1
+clearml/clearml-agent-services:latest
