@@ -10,3 +10,10 @@ elasticsearch:8.17.0
 mongo:6.0.19
 redis:7.4.1
 clearml/clearml-agent-services:latest
+bitnami/zookeeper:3.7.0
+bitnami/kafka:3.1.1
+prom/prometheus:v2.34.0
+prom/alertmanager:v0.23.0
+grafana/grafana:8.4.4-ubuntu
+allegroai/clearml-serving-inference:latest
+allegroai/clearml-serving-statistics:latest
