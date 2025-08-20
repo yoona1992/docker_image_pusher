@@ -17,3 +17,7 @@ prom/alertmanager:v0.23.0
 grafana/grafana:8.4.4-ubuntu
 allegroai/clearml-serving-inference:latest
 allegroai/clearml-serving-statistics:latest
+graviteeio/apim-gateway:latest
+graviteeio/apim-management-api:latest
+graviteeio/apim-management-ui:latest
+graviteeio/apim-portal-ui:latest
