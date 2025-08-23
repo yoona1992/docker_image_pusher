@@ -21,3 +21,4 @@ graviteeio/apim-gateway:latest
 graviteeio/apim-management-api:latest
 graviteeio/apim-management-ui:latest
 graviteeio/apim-portal-ui:latest
+opendronemap/nodeodm:latest
