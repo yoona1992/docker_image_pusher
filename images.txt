@@ -22,6 +22,6 @@ graviteeio/apim-management-api:latest
 graviteeio/apim-management-ui:latest
 graviteeio/apim-portal-ui:latest
 opendronemap/nodeodm:latest
-confluentinc/cp-zookeeper:8.11.1
-confluentinc/cp-kafka:8.11.1
-confluentinc/cp-kafka-connect:8.11.1
+confluentinc/cp-zookeeper:7.6.1
+confluentinc/cp-kafka:7.6.1
+confluentinc/cp-kafka-connect:7.6.1
