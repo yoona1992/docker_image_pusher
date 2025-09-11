@@ -27,5 +27,5 @@ confluentinc/cp-kafka:7.6.1
 confluentinc/cp-kafka-connect:7.6.1
 bitnami/zookeeper:3.9.2
 bitnami/kafka:3.7.0
-
-
+docker.elastic.co/logstash/logstash:8.17.0
+docker.elastic.co/kibana/kibana:8.17.0
