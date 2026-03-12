@@ -1,4 +1,4 @@
-zlmediakit/zlmediakit:master
+ zlmediakit/zlmediakit:master
 docker.elastic.co/elasticsearch/elasticsearch:7.17.22
 apache/dolphinscheduler-tools:3.2.2
 apache/dolphinscheduler-master:3.2.2
@@ -16,3 +16,4 @@ nvcr.io/nvidia/tritonserver:24.09-py3
 roboflow/roboflow-inference-server-gpu:latest
 nvcr.io/nvidia/tensorrt:24.09-py3
 opendronemap/nodeodm:gpu
+postgis/postgis:15-3.4
